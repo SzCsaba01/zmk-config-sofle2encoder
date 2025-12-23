@@ -2,7 +2,7 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: sofle-nice-shield
+    - name: SzCsaba01
       url-base: https://github.com/SzCsaba01
   projects:
     - name: zmk
