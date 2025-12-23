@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: sofle-nice-shield
-      url-base: https://github.com/SzCsaba01/sofle-nice-shield
+      url-base: https://github.com/SzCsaba01
   projects:
     - name: zmk
       remote: zmkfirmware
